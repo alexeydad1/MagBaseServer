@@ -1,0 +1,376 @@
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.pdb
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.pdb
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Sform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tform.resources
+C:\Users\magdun\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pform.resources
+C:\Users\magdun\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Viborform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Classform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewClassform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeClassform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tovarform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Groupform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewGroupform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeGroupform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Brandform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewBrandform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeBrandform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewEanform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPrihod.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.pdb
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Brandform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeBrandform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeClassform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeGroupform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Classform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPrihod.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewEanform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Groupform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewBrandform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewClassform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewGroupform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Sform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tovarform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Viborform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.pdb
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.dll
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.pdb
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Osnovasetform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.dll
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.pdb
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Osnovasetform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.entryform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.pdb
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.pdb
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.dll
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.pdb
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Brandform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeBrandform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeClassform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeGroupform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Classform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.entryform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPrihod.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewEanform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Groupform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewBrandform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewClassform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewGroupform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Printchekform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Sform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tovarform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Osnovasetform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Viborform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.PrintcennikPrihod.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.calcform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.calcform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.FindTovarform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalRashod.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportOstatokform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.calcform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.entryform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.FindTovarform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalRashod.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportOstatokform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportSalesform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalSalesform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalSalesform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportSalesform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.FindTovarform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalRashod.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalSalesform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportOstatokform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportSalesform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pviewform.resources
+C:\Users\AlexeyD\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pviewform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe.manifest
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.application
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.TrustInfo.xml
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe.manifest
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.application
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rviewform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Supform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewSupform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeSupform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe.manifest
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.application
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeSupform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewSupform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pviewform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rviewform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Supform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.TrustInfo.xml
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe.manifest
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.application
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Usersform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewUser.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewUser.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Usersform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportCashIncomeform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportCashIncomeform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReplaceGroupform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReplaceGroupform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPereocenkiform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pereocenkaform.resources
+C:\Users\magdun\documents\visual studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.905.tlog
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPereocenkiform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pereocenkaform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.905.tlog
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.pdb
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe.manifest
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.application
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.pdb
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Brandform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.calcform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeBrandform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeClassform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeGroupform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeSupform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Classform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.entryform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.FindTovarform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPereocenkiform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPrihod.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalRashod.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalSalesform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewEanform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Groupform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewBrandform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewClassform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewGroupform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewSupform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewUser.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pereocenkaform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pviewform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReplaceGroupform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportCashIncomeform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportOstatokform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportSalesform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rviewform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Sform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Supform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tovarform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Osnovasetform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Usersform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Viborform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.905.tlog
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.TrustInfo.xml
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe.manifest
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.application
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.AboutBox.resources
+C:\Users\magdun\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.AboutBox.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pluexpform.resources
+C:\Users\magdun\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pluexpform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeUsersform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.AboutBox.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeUsersform.resources
+C:\Users\Ирина\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pluexpform.resources
+C:\Users\proddundich\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportMoveGoodsform.resources
+C:\Users\magdun\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeUsersform.resources
+C:\Users\magdun\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportMoveGoodsform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.pdb
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe.manifest
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.application
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.pdb
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.pdb
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.AboutBox.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Brandform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.calcform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeBrandform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeClassform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeGroupform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeSupform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeUsersform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Classform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.entryform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.FindTovarform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pluexpform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPereocenkiform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPrihod.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalRashod.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalSalesform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewEanform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Groupform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewBrandform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewClassform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewGroupform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewSupform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewUser.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pereocenkaform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pviewform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReplaceGroupform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportCashIncomeform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportMoveGoodsform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportOstatokform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportSalesform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rviewform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Sform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Supform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tovarform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Osnovasetform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Usersform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Viborform.resources
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.905.tlog
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.TrustInfo.xml
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe.manifest
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.application
+C:\Documents and Settings\admin\My Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Microsoft.CSharp.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Brandform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.calcform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeBrandform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeClassform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeGroupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeSupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeUsersform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Classform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.entryform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.FindTovarform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pluexpform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPereocenkiform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPrihod.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalRashod.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalSalesform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewEanform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Groupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewBrandform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewClassform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewGroupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewSupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewUser.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pereocenkaform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pviewform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReplaceGroupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportCashIncomeform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportMoveGoodsform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportOstatokform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportSalesform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rviewform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Sform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Supform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tovarform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Osnovasetform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Usersform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Viborform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.905.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.TrustInfo.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe.manifest
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.application
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.exe
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Magbase.pdb
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\Ionic.Zip.Reduced.dll
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.dll
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\bin\Debug\System.Data.SQLite.pdb
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Brandform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.calcform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeBrandform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeClassform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeGroupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeSupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ChangeUsersform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Classform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.entryform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.FindTovarform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pluexpform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPereocenkiform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalPrihod.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalRashod.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.GurnalSalesform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewEanform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Groupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewBrandform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewClassform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewGroupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewSupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.NewUser.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pereocenkaform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Pviewform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReplaceGroupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportCashIncomeform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportMoveGoodsform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportOstatokform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.ReportSalesform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Rviewform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Sform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Supform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Tovarform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Osnovasetform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Usersform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\WindowsFormsApplication1.Viborform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.read.905.tlog
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.TrustInfo.xml
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe.manifest
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.application
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.exe
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\Magbase\Magbase\obj\x86\Debug\Magbase.pdb
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Debug\Magbase.exe
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Debug\Magbase.pdb

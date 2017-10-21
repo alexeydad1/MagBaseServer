@@ -1,0 +1,639 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{11954C38-6345-4A50-8059-7139D4697376}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MagbaseServer</RootNamespace>
+    <AssemblyName>MagbaseServer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\TestMagbase\dcp\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C0A08317D093127BC46DF3CEEA4A3299D0DE0BF7</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Magbase_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ionic.Zip.Reduced">
+      <HintPath>..\..\DotNetZipLib-DevKit-v1.9\zip-v1.9-Reduced\Release\Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft.NET\Primary Interop Assemblies\stdole.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\..\..\..\..\Downloads\sqlite-netFx40-binary-bundle-Win32-2010-1.0.102.0\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChekBase.cs" />
+    <Compile Include="Cash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cash.Designer.cs">
+      <DependentUpon>Cash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="InfoPriceform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InfoPriceform.Designer.cs">
+      <DependentUpon>InfoPriceform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReturnGoodsfrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReturnGoodsfrom.Designer.cs">
+      <DependentUpon>ReturnGoodsfrom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="logger.cs" />
+    <Compile Include="Source.cs" />
+    <Compile Include="serializeTable.cs" />
+    <Compile Include="Server.cs" />
+    <Compile Include="Zip.cs" />
+    <Compile Include="MailSent.cs" />
+    <Compile Include="ImportExport.cs" />
+    <Compile Include="data.cs" />
+    <Compile Include="DBF.cs" />
+    <Compile Include="crypt2.cs" />
+    <Compile Include="crypt.cs" />
+    <Compile Include="ChangeSupform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeSupform.Designer.cs">
+      <DependentUpon>ChangeSupform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeUsersform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeUsersform.Designer.cs">
+      <DependentUpon>ChangeUsersform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportMoveGoodsform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportMoveGoodsform.Designer.cs">
+      <DependentUpon>ReportMoveGoodsform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pluexpform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pluexpform.Designer.cs">
+      <DependentUpon>Pluexpform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GurnalPereocenkiform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GurnalPereocenkiform.Designer.cs">
+      <DependentUpon>GurnalPereocenkiform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pereocenkaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pereocenkaform.Designer.cs">
+      <DependentUpon>Pereocenkaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReplaceGroupform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReplaceGroupform.Designer.cs">
+      <DependentUpon>ReplaceGroupform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewUser.Designer.cs">
+      <DependentUpon>NewUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usersform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usersform.Designer.cs">
+      <DependentUpon>Usersform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportCashIncomeform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportCashIncomeform.Designer.cs">
+      <DependentUpon>ReportCashIncomeform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewSupform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewSupform.Designer.cs">
+      <DependentUpon>NewSupform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Supform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Supform.Designer.cs">
+      <DependentUpon>Supform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rviewform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rviewform.Designer.cs">
+      <DependentUpon>Rviewform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pviewform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pviewform.Designer.cs">
+      <DependentUpon>Pviewform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GurnalSalesform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GurnalSalesform.Designer.cs">
+      <DependentUpon>GurnalSalesform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportSalesform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportSalesform.Designer.cs">
+      <DependentUpon>ReportSalesform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SettingsBase.cs" />
+    <Compile Include="Rform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rform.Designer.cs">
+      <DependentUpon>Rform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="func.cs" />
+    <Compile Include="entryform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="entryform.Designer.cs">
+      <DependentUpon>entryform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calcform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calcform.Designer.cs">
+      <DependentUpon>calcform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FindTovarform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FindTovarform.Designer.cs">
+      <DependentUpon>FindTovarform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GurnalRashod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GurnalRashod.Designer.cs">
+      <DependentUpon>GurnalRashod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintClass.cs" />
+    <Compile Include="Classform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classform.Designer.cs">
+      <DependentUpon>Classform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeClassform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeClassform.Designer.cs">
+      <DependentUpon>ChangeClassform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeGroupform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeGroupform.Designer.cs">
+      <DependentUpon>ChangeGroupform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Brandform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Brandform.Designer.cs">
+      <DependentUpon>Brandform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeBrandform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChangeBrandform.Designer.cs">
+      <DependentUpon>ChangeBrandform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Osnovasetform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Osnovasetform.Designer.cs">
+      <DependentUpon>Osnovasetform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GurnalPrihod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GurnalPrihod.Designer.cs">
+      <DependentUpon>GurnalPrihod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewEanform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewEanform.Designer.cs">
+      <DependentUpon>NewEanform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewBrandform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewBrandform.Designer.cs">
+      <DependentUpon>NewBrandform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewGroupform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewGroupform.Designer.cs">
+      <DependentUpon>NewGroupform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Groupform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Groupform.Designer.cs">
+      <DependentUpon>Groupform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tovarform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tovarform.Designer.cs">
+      <DependentUpon>Tovarform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewClassform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewClassform.Designer.cs">
+      <DependentUpon>NewClassform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Viborform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Viborform.Designer.cs">
+      <DependentUpon>Viborform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pform.Designer.cs">
+      <DependentUpon>Pform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sqldb.cs" />
+    <Compile Include="Tform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tform.Designer.cs">
+      <DependentUpon>Tform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sform.Designer.cs">
+      <DependentUpon>Sform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Brandform.resx">
+      <DependentUpon>Brandform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calcform.resx">
+      <DependentUpon>calcform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeBrandform.resx">
+      <DependentUpon>ChangeBrandform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeClassform.resx">
+      <DependentUpon>ChangeClassform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeGroupform.resx">
+      <DependentUpon>ChangeGroupform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeSupform.resx">
+      <DependentUpon>ChangeSupform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChangeUsersform.resx">
+      <DependentUpon>ChangeUsersform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classform.resx">
+      <DependentUpon>Classform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="entryform.resx">
+      <DependentUpon>entryform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FindTovarform.resx">
+      <DependentUpon>FindTovarform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cash.resx">
+      <DependentUpon>Cash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InfoPriceform.resx">
+      <DependentUpon>InfoPriceform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pluexpform.resx">
+      <DependentUpon>Pluexpform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GurnalPereocenkiform.resx">
+      <DependentUpon>GurnalPereocenkiform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GurnalPrihod.resx">
+      <DependentUpon>GurnalPrihod.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GurnalRashod.resx">
+      <DependentUpon>GurnalRashod.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GurnalSalesform.resx">
+      <DependentUpon>GurnalSalesform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewEanform.resx">
+      <DependentUpon>NewEanform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Groupform.resx">
+      <DependentUpon>Groupform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewBrandform.resx">
+      <DependentUpon>NewBrandform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewClassform.resx">
+      <DependentUpon>NewClassform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewGroupform.resx">
+      <DependentUpon>NewGroupform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewSupform.resx">
+      <DependentUpon>NewSupform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewUser.resx">
+      <DependentUpon>NewUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pereocenkaform.resx">
+      <DependentUpon>Pereocenkaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pform.resx">
+      <DependentUpon>Pform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pviewform.resx">
+      <DependentUpon>Pviewform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReplaceGroupform.resx">
+      <DependentUpon>ReplaceGroupform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportCashIncomeform.resx">
+      <DependentUpon>ReportCashIncomeform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportMoveGoodsform.resx">
+      <DependentUpon>ReportMoveGoodsform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportSalesform.resx">
+      <DependentUpon>ReportSalesform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturnGoodsfrom.resx">
+      <DependentUpon>ReturnGoodsfrom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rform.resx">
+      <DependentUpon>Rform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rviewform.resx">
+      <DependentUpon>Rviewform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sform.resx">
+      <DependentUpon>Sform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Supform.resx">
+      <DependentUpon>Supform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tform.resx">
+      <DependentUpon>Tform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tovarform.resx">
+      <DependentUpon>Tovarform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Osnovasetform.resx">
+      <DependentUpon>Osnovasetform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usersform.resx">
+      <DependentUpon>Usersform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Viborform.resx">
+      <DependentUpon>Viborform.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Magbase_TemporaryKey.pfx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль Microsoft .NET Framework 4 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>Клиентский профиль .NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Установщик Windows 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_16_doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_32_doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_16_doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_32_doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_32_doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_16_doc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_32_doc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_16_doc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_32_doc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_16_doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_32_doc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_16_doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print_32_doc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\docpr_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\view_tree_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect_creating_7660.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connect_established_6456.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stock_disconnect_5843.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barcode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_refresh_2810.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow_refresh_3839.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clienticon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cheked_ico.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

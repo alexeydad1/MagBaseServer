@@ -1,0 +1,666 @@
+21.03.2016 16:54:31
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:54:44
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:54:46
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:54:47
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:54:49
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:54:50
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:54:51
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:54:54
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:54:56
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:54:57
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:54:58
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:55:00
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:55:01
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:55:02
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:55:03
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:55:05
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:55:06
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:55:07
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 16:55:08
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 99
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:54:28
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:54:45
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:54:50
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:54:54
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:54:58
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:55:02
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:55:05
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:55:18
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:55:24
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:55:28
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:55:38
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:55:42
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:56:13
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:56:16
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:56:22
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:56:30
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:56:34
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------
+21.03.2016 18:56:37
+Ошибка выполнения запроса  на изменение данных: 
+constraint failed
+UNIQUE constraint failed: BlockT.kod_dbase
+Запрос:INSERT INTO BlockT (kod_dbase) Values('ia000110')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+Метод: System.Data.SQLite.SQLiteErrorCode Reset(System.Data.SQLite.SQLiteStatement)
+Приложение/Объект: System.Data.SQLite
+Экземпляр класса: 
+Стек вызова:    в System.Data.SQLite.SQLite3.Reset(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 874
+   в System.Data.SQLite.SQLite3.Step(SQLiteStatement stmt) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLite3.cs:строка 816
+   в System.Data.SQLite.SQLiteDataReader.NextResult() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 1339
+   в System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteDataReader.cs:строка 123
+   в System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 805
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior) в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 853
+   в System.Data.SQLite.SQLiteCommand.ExecuteNonQuery() в c:\dev\sqlite\dotnet\System.Data.SQLite\SQLiteCommand.cs:строка 838
+   в MagbaseServer.sqldb.SQL_Query_CL(String SqlQuery) в C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\sqldb.cs:строка 208
+?: System.Collections.ListDictionaryInternal
+--------------------------------------------------------------------------------------

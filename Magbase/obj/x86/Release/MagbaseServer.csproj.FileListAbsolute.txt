@@ -1,0 +1,169 @@
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.exe.manifest
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.application
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.exe
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.pdb
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\Ionic.Zip.Reduced.dll
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\System.Data.SQLite.dll
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\System.Data.SQLite.pdb
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Brandform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.calcform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeBrandform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeClassform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeGroupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeSupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeUsersform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Classform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.entryform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.FindTovarform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pluexpform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalPereocenkiform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalPrihod.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalRashod.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalSalesform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewEanform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Groupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewBrandform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewClassform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewGroupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewSupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewUser.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pereocenkaform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pviewform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReplaceGroupform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReportCashIncomeform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReportMoveGoodsform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReportOstatokform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReportSalesform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Rform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Rviewform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Sform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Properties.Resources.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Supform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Tform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Tovarform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Osnovasetform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Usersform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Viborform.resources
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.TrustInfo.xml
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.exe.manifest
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.application
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.exe
+C:\Documents and Settings\хлопец228\Мои документы\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\Ionic.Zip.Reduced.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Brandform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.calcform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeBrandform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeClassform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeGroupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeSupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeUsersform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Classform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.entryform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.FindTovarform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Cash.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.InfoPriceform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pluexpform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalPereocenkiform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalPrihod.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalRashod.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalSalesform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewEanform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Groupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewBrandform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewClassform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewGroupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewSupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewUser.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pereocenkaform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pviewform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReplaceGroupform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReportCashIncomeform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReportMoveGoodsform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReportSalesform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReturnGoodsfrom.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Rform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Rviewform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Sform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Supform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Tform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Tovarform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Osnovasetform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Usersform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Viborform.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.TrustInfo.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.exe.manifest
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.application
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.exe.config
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.csprojResolveAssemblyReference.cache
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.exe.config
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.exe.manifest
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.application
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.exe
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\MagbaseServer.pdb
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\Ionic.Zip.Reduced.dll
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\System.Data.SQLite.dll
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\System.Data.SQLite.pdb
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\bin\Release\System.Data.SQLite.xml
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Brandform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.calcform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeBrandform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeClassform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeGroupform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeSupform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ChangeUsersform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Classform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.entryform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.FindTovarform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Cash.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.InfoPriceform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pluexpform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalPereocenkiform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalPrihod.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalRashod.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.GurnalSalesform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewEanform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Groupform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewBrandform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewClassform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewGroupform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewSupform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.NewUser.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pereocenkaform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Pviewform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReplaceGroupform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReportCashIncomeform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReportMoveGoodsform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReportSalesform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.ReturnGoodsfrom.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Rform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Rviewform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Sform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Properties.Resources.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Supform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Tform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Tovarform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Osnovasetform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Usersform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.Viborform.resources
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.TrustInfo.xml
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.exe.manifest
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.application
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.exe
+C:\Users\HomeComp\Documents\Visual Studio 2010\Projects\MagbaseServer\Magbase\obj\x86\Release\MagbaseServer.pdb
